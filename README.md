@@ -1,3 +1,3 @@
 # Go By Example
 
-https://gobyexample.com/
+Go practice with https://gobyexample.com/
